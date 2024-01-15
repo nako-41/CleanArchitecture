@@ -1,0 +1,12 @@
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\bin\Debug\net8.0\CleanArchitecture.Applicaton.deps.json
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\bin\Debug\net8.0\CleanArchitecture.Applicaton.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\bin\Debug\net8.0\CleanArchitecture.Applicaton.pdb
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\obj\Debug\net8.0\CleanArchitecture.Applicaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\obj\Debug\net8.0\CleanArchitecture.Applicaton.AssemblyInfoInputs.cache
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\obj\Debug\net8.0\CleanArchitecture.Applicaton.AssemblyInfo.cs
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\obj\Debug\net8.0\CleanArchitecture.Applicaton.csproj.CoreCompileInputs.cache
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\obj\Debug\net8.0\CleanArchitecture.Applicaton.sourcelink.json
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\obj\Debug\net8.0\CleanArchitecture.Applicaton.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\obj\Debug\net8.0\refint\CleanArchitecture.Applicaton.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\obj\Debug\net8.0\CleanArchitecture.Applicaton.pdb
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\obj\Debug\net8.0\ref\CleanArchitecture.Applicaton.dll

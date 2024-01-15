@@ -30,3 +30,9 @@ C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitect
 C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.WebApi\obj\Debug\net8.0\CleanArchitecture.WebApi.pdb
 C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.WebApi\obj\Debug\net8.0\CleanArchitecture.WebApi.genruntimeconfig.cache
 C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.WebApi\obj\Debug\net8.0\ref\CleanArchitecture.WebApi.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\CleanArchitecture.Presentation.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\CleanArchitecture.Presentation.pdb
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.WebApi\obj\Debug\net8.0\CleanArchitecture.WebApi.sourcelink.json

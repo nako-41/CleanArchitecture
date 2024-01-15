@@ -1,0 +1,12 @@
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Persistance.deps.json
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Persistance.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Persistance.pdb
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.AssemblyInfoInputs.cache
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.AssemblyInfo.cs
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.sourcelink.json
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\refint\CleanArchitecture.Persistance.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.pdb
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\ref\CleanArchitecture.Persistance.dll
