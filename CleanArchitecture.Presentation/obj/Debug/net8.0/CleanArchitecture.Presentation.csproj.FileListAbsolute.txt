@@ -11,3 +11,8 @@ C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitect
 C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\refint\CleanArchitecture.Presentation.dll
 C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.pdb
 C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\ref\CleanArchitecture.Presentation.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Applicaton.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Applicaton.pdb
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.csproj.CopyComplete

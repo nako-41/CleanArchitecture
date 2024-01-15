@@ -243,7 +243,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\okan.kaipoglu\\Desktop\\önemli\\PROJELER\\CleanArchitecture\\CleanArchitecture.Applicaton\\CleanArchitecture.Applicaton.csproj": {
+                "projectPath": "C:\\Users\\okan.kaipoglu\\Desktop\\önemli\\PROJELER\\CleanArchitecture\\CleanArchitecture.Applicaton\\CleanArchitecture.Applicaton.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

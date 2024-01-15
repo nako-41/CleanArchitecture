@@ -16,3 +16,5 @@ C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitect
 C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.csproj.AssemblyReference.cache
 C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.csproj.CopyComplete
 C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.genruntimeconfig.cache
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Applicaton.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Applicaton.pdb

@@ -2005,6 +2005,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "CleanArchitecture.Applicaton": "1.0.0",
           "MediatR": "12.2.0",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5"
         },
