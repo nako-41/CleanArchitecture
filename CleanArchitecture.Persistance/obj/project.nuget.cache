@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ib22zHHiwF1QTyz9mPmqBG61EH6USkPna8rOvfORNQ9HcNMLC0F4b+YvSApz4kBNfBmzM4BcnjzP+18odt4xnA==",
+  "dgSpecHash": "l3vZQpvf2V/UQFKzZh3UG3IyNyd7/9TyNvxiTN7v6BqKXBx+6gTuD9wccL+pKP57EDOxcQVVzrC0SM6EaXarCw==",
   "success": true,
   "projectFilePath": "C:\\Users\\okan.kaipoglu\\Desktop\\önemli\\PROJELER\\CleanArchitecture\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",

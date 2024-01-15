@@ -10,3 +10,7 @@ C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitect
 C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\obj\Debug\net8.0\refint\CleanArchitecture.Applicaton.dll
 C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\obj\Debug\net8.0\CleanArchitecture.Applicaton.pdb
 C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\obj\Debug\net8.0\ref\CleanArchitecture.Applicaton.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\obj\Debug\net8.0\CleanArchitecture.Applicaton.csproj.AssemblyReference.cache
+C:\Users\okan.kaipoglu\Desktop\önemli\PROJELER\CleanArchitecture\CleanArchitecture.Applicaton\obj\Debug\net8.0\CleanArchitecture.Applicaton.csproj.CopyComplete
