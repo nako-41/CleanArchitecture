@@ -12,8 +12,10 @@ builder.Services.AddEndpointsApiExplorer();
 
 string connetionString = builder.Configuration.GetConnectionString("SqlServer");
 
-builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(connetionString));    
+builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(connetionString));
 
+
+builder.Services.AddMediatR(cfr => cfr.RegisterServicesFromAssembly(typeof(CleanArchitecture.Applicaton.AssemblyReference).Assembly));
 
 builder.Services.AddSwaggerGen();
 

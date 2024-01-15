@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "EMDzXkJChJ2pvexmalqMjkai1BaBloTVbCVM1pt4N7bYH9CF28tVIIjm7rLY1rousm0TsoWFVgAdeAKjuDwGvw==",
-  "success": true,
+  "dgSpecHash": "1U4qEDHAon7Ms1nS83Mjy4DILwJoJY52NoR5oUjhoH6D+2MkbjOQBdfz7MwT9/j1AU/6MhMYX0uVqbvwAV6sWQ==",
+  "success": false,
   "projectFilePath": "C:\\Users\\okan.kaipoglu\\Desktop\\önemli\\PROJELER\\CleanArchitecture\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
@@ -107,5 +109,24 @@
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: MediatR from 12.2.0 to 12.0.1. Reference the package directly from the project to select a different version. \r\n CleanArchitecture.WebApi -> CleanArchitecture.Presentation -> MediatR (>= 12.2.0) \r\n CleanArchitecture.WebApi -> MediatR (>= 12.0.1)",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: MediatR from 12.2.0 to 12.0.1. Reference the package directly from the project to select a different version. \r\n CleanArchitecture.WebApi -> CleanArchitecture.Applicaton -> MediatR (>= 12.2.0) \r\n CleanArchitecture.WebApi -> MediatR (>= 12.0.1)",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
