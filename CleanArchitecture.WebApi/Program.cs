@@ -1,3 +1,6 @@
+using CleanArchitecture.Persistance.Context;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 
@@ -6,6 +9,12 @@ builder.Services.AddControllers()
 
 
 builder.Services.AddEndpointsApiExplorer();
+
+string connetionString = builder.Configuration.GetConnectionString("SqlServer");
+
+builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(connetionString));    
+
+
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
