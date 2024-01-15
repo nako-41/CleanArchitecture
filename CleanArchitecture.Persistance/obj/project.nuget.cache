@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ep+RkWtgFxVxX3aWe8vzAZR4S0chl3LW2Lu7lJYOf/JZSyArHOK8Q1rlz3bpnvKMUdpNxxF4044IFy0KcDcOHg==",
+  "dgSpecHash": "ib22zHHiwF1QTyz9mPmqBG61EH6USkPna8rOvfORNQ9HcNMLC0F4b+YvSApz4kBNfBmzM4BcnjzP+18odt4xnA==",
   "success": true,
   "projectFilePath": "C:\\Users\\okan.kaipoglu\\Desktop\\önemli\\PROJELER\\CleanArchitecture\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.1\\microsoft.entityframeworkcore.design.8.0.1.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.1\\microsoft.entityframeworkcore.relational.8.0.1.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.1\\microsoft.entityframeworkcore.sqlserver.8.0.1.nupkg.sha512",
+    "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.1\\microsoft.entityframeworkcore.tools.8.0.1.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
