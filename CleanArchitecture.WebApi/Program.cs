@@ -1,6 +1,9 @@
+using CleanArchitecture.Applicaton.Behaviors;
 using CleanArchitecture.Applicaton.Services;
 using CleanArchitecture.Persistance.Context;
 using CleanArchitecture.Persistance.Services;
+using FluentValidation;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,7 +16,9 @@ builder.Services.AddControllers()
 builder.Services.AddEndpointsApiExplorer();
 
 
-builder.Services.AddScoped<ICarService, CarService>();
+builder.Services.AddScoped<ICarService, CarService>(); 
+
+builder.Services.AddAutoMapper(typeof(CleanArchitecture.Persistance.AssemblyReference).Assembly);
 
 string connetionString = builder.Configuration.GetConnectionString("SqlServer");
 
@@ -21,6 +26,10 @@ builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(connetionStr
 
 
 builder.Services.AddMediatR(cfr => cfr.RegisterServicesFromAssembly(typeof(CleanArchitecture.Applicaton.AssemblyReference).Assembly));
+
+builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
+builder.Services.AddValidatorsFromAssembly(typeof(CleanArchitecture.Applicaton.AssemblyReference).Assembly);
+
 
 builder.Services.AddSwaggerGen();
 

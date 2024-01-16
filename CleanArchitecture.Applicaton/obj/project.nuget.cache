@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/ms2uvsvSTt8w3nLfDnAt65Sn+Ax9/MVnMPE1E4ONMfckYDZlDfCVVVEwqB8Bre57ZVY1JHtVi4rOcnBPxykUw==",
+  "dgSpecHash": "Qz9AFvHGF/qDRPqz04FvpRrs8YsD7zXRu02G3dY9FVzk4tpo+szyktOw2bgIp+CS9FbeLE60U1eU/08ySkpzmw==",
   "success": true,
   "projectFilePath": "C:\\Users\\okan.kaipoglu\\Desktop\\önemli\\PROJELER\\CleanArchitecture\\CleanArchitecture.Applicaton\\CleanArchitecture.Applicaton.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\okan.kaipoglu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
